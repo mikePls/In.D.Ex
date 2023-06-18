@@ -1,0 +1,16 @@
+
+
+Establish cost function to be minimised. Use cost function to fit model.
+Cost functions below...
+
+Error metrics:
+Sum of Squared Errors (SSE):
+Measures distance between truth values and predictions
+
+Total Sum of Square (TSS):
+Measures distance between truth and the average values of the truth
+AKA total variation around the mean of the outcome variable
+
+Coefficient of Determination (R^2):
+Explained variation of model
+formula: 1-SSE/TSS

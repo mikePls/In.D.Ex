@@ -1,0 +1,13 @@
+Data Analysis & Machine Learning Application
+Use-cases and Functionalities
+
+---File management
+load -> local, URL
+save -> local
+
+read formats -> json, csv, tsv, xlsx
+
+---Preprocessing - Exploratory Data analysis
+Data overview -> data info, statistics, features, sampling
+
+data transformations -> scaling, one_hot_encoding
